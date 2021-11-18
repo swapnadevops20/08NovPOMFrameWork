@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-10T05:26:05Z" name="Default suite" finished-at="2021-11-10T05:26:34Z" duration-ms="28921">
+    <groups>
+    </groups>
+    <test started-at="2021-11-10T05:26:05Z" name="Default test" finished-at="2021-11-10T05:26:34Z" duration-ms="28921">
+      <class name="com.qa.wiki.Test.LoginPageTest">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.qa.wiki.Test.LoginPageTest@5c669da8]" started-at="2021-11-10T05:26:05Z" name="Setup" finished-at="2021-11-10T05:26:25Z" duration-ms="20109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="enteruserDetailsTest()[pri:49, instance:com.qa.wiki.Test.LoginPageTest@5c669da8]" started-at="2021-11-10T05:26:25Z" name="enteruserDetailsTest" finished-at="2021-11-10T05:26:28Z" duration-ms="3354" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enteruserDetailsTest -->
+        <test-method signature="helpLinkTest()[pri:50, instance:com.qa.wiki.Test.LoginPageTest@5c669da8]" started-at="2021-11-10T05:26:28Z" name="helpLinkTest" finished-at="2021-11-10T05:26:34Z" duration-ms="5334" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- helpLinkTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.qa.wiki.Test.LoginPageTest@5c669da8]" started-at="2021-11-10T05:26:34Z" name="closeBrowser" finished-at="2021-11-10T05:26:34Z" duration-ms="79" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.qa.wiki.Test.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
